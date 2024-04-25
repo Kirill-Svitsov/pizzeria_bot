@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kirill--Svitsov-blue)](https://github.com/Kirill-Svitsov)
 # PizzaBot
-[![Telegram Badge](https://img.shields.io/badge/-svitsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pizza_SvitsovBot)
+[![Telegram Badge](https://img.shields.io/badge/-Pizza-bot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pizza_SvitsovBot)
 
 ## Description
 Проект сделан с целью обучения в создании Telegram ботов. В качестве идеи принят бот, позволяющий формировать заказы в пиццерии.
