@@ -1,5 +1,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kirill--Svitsov-blue)](https://github.com/Kirill-Svitsov)
-# PizzaBot
+# PizzaBot [![Telegram Badge](https://img.shields.io/badge/-Site-Shot-Bot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pizza_SvitsovBot)
 
 ## Description
 Проект сделан с целью обучения в создании Telegram ботов. В качестве идеи принят бот, позволяющий формировать заказы в пиццерии.
@@ -13,16 +13,16 @@
 - pydantic==2.5.3
 - SQLAlchemy==2.0.29
 
-## Launching the Project in Development Mode
+## Запуск проекта в режиме разработки
 
-- Set up and activate the virtual environment.
-- Install dependencies from the requirements.txt file:
-
+- Установите и активируйте виртуальное окружение.
+- Установите зависимости из файла requirements.txt:
 ```
 pip install -r requirements.txt
 ```
-
-In the folder containing app.py, run the commands:
+- Создайте файл .env и разместите в нем TOKEN=токен_вашего_бота
+- Токен бота вы можете получить https://t.me/BotFather
+- После этого вы можете запустить приложение
 ```
 python3 app.py
 ```
